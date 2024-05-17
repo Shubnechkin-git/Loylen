@@ -1,0 +1,22 @@
+footer {
+    background-color: #EEEEEE;
+    height: 100px;
+    padding: 0px 60px;
+}
+
+footer .number {
+    font-family: Futura PT;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 31.2px;
+    letter-spacing: 0.02em;
+    color: #474A51;
+}
+
+footer span {
+    font-family: Futura PT;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.2px;
+    color: #474A51;
+}

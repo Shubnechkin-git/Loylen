@@ -1,0 +1,38 @@
+Date : 2024-05-17 06:26:37
+Directory : d:\VS Code Project\Loylen
+Total : 9 files,  839 codes, 0 comments, 75 blanks, all 914 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| PHP      |          4 |        481 |          0 |         13 |        494 |
+| CSS      |          5 |        358 |          0 |         62 |        420 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                   |          9 |        839 |          0 |         75 |        914 |
+| src                                                 |          9 |        839 |          0 |         75 |        914 |
+| src\components                                      |          1 |         -2 |          0 |          0 |         -2 |
+| src\page                                            |          3 |        483 |          0 |         13 |        496 |
+| src\style                                           |          5 |        358 |          0 |         62 |        420 |
++-----------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                            | language | code       | comment    | blank      | total      |
++-----------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\VS Code Project\Loylen\src\components\header.php | PHP      |         -2 |          0 |          0 |         -2 |
+| d:\VS Code Project\Loylen\src\page\cart.php         | PHP      |         99 |          0 |          4 |        103 |
+| d:\VS Code Project\Loylen\src\page\catalog.php      | PHP      |        276 |          0 |          5 |        281 |
+| d:\VS Code Project\Loylen\src\page\favorite.php     | PHP      |        108 |          0 |          4 |        112 |
+| d:\VS Code Project\Loylen\src\style\cart.css        | CSS      |         82 |          0 |         14 |         96 |
+| d:\VS Code Project\Loylen\src\style\catalog.css     | CSS      |        141 |          0 |         23 |        164 |
+| d:\VS Code Project\Loylen\src\style\favorite.css    | CSS      |        133 |          0 |         24 |        157 |
+| d:\VS Code Project\Loylen\src\style\header.css      | CSS      |          3 |          0 |          0 |          3 |
+| d:\VS Code Project\Loylen\src\style\main.css        | CSS      |         -1 |          0 |          1 |          0 |
+| Total                                               |          |        839 |          0 |         75 |        914 |
++-----------------------------------------------------+----------+------------+------------+------------+------------+

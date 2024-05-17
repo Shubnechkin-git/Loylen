@@ -1,0 +1,117 @@
+.instagram {
+    margin-top: 160px;
+}
+
+.instagram .title_inst {
+    color: #474A51;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 31.2px;
+    letter-spacing: 0.02em;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.instagram .inst {
+    color: #474A51;
+    font-family: Lovelace;
+    font-size: 52px;
+    font-weight: 500;
+    line-height: 67.6px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.instagram .photo span {
+    font-family: Futura PT;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    cursor: pointer;
+}
+
+.instagram .photo .blur {
+    background-color: #dde8f67e;
+    opacity: 0;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+.instagram .photo .col:hover .blur {
+    opacity: 1;
+}
+
+/* #DDE8F6 */
+.img7 {
+    height: 350px;
+    padding: 0;
+    background-image: url("../assets/main/inst/1.png");
+    background-position: center;
+    background-size: cover;
+    background-position-y: 0;
+}
+
+.img8 {
+    padding: 0;
+    height: 350px;
+    background-image: url("../assets/main/inst/2.png");
+    background-position: center;
+    background-size: cover;
+    background-position-y: 0;
+}
+
+.img9 {
+    padding: 0;
+    height: 350px;
+    background-image: url("../assets/main/inst/3.png");
+    background-position: center;
+    background-size: cover;
+    background-position-y: 0;
+}
+
+.img10 {
+    padding: 0;
+    height: 350px;
+    background-image: url("../assets/main/inst/4.png");
+    background-position: center;
+    background-size: cover;
+    background-position-y: 0;
+}
+
+.title {
+    font-family: Lovelace;
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 67.6px;
+    text-align: left;
+    padding-bottom: 30px;
+    text-transform: uppercase;
+    color: #474A51;
+    max-width: 407px;
+}
+
+.image img{
+    width: 700px;
+    height: 660px;
+}
+
+.infa {
+    padding: 60px 0px;
+    max-height: 660px;
+    max-width: 699px;
+}
+
+body span {
+    font-family: Futura PT;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    color: #474A51;
+    max-width: 407px;
+}

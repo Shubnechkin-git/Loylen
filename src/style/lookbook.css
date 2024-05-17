@@ -1,0 +1,55 @@
+body {
+    color: #474A51;
+}
+
+.content {
+    margin: 0 60px;
+    margin-bottom: 80px;
+
+}
+
+.content img {
+    margin-bottom: 15px;
+}
+
+.lookbook {
+    margin-top: 110px;
+    margin-bottom: 50px;
+}
+
+.lookbook .one img {
+    margin-top: 50px;
+    max-height: 454px;
+    max-width: 298px;
+}
+
+.lookbook img {
+    max-height: 740px;
+    max-width: 685px;
+}
+
+.tree {
+    margin-top: 80px;
+    max-height: 774px;
+    max-width: 516px;
+    margin-left: 278px;
+    margin-bottom: 80px;
+}
+
+.four {
+    max-height: 620px;
+    max-width: 410px;
+}
+
+.five {
+    max-height: 417px;
+    max-width: 625px;
+}
+
+.lookbook .title {
+    font-family: Lovelace;
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 67.6px;
+    padding-bottom: 15px;
+}

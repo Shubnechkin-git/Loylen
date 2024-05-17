@@ -1,0 +1,11 @@
+"filename", "language", "PHP", "CSS", "comment", "blank", "total"
+"d:\VS Code Project\Loylen\src\components\header.php", "PHP", -2, 0, 0, 0, -2
+"d:\VS Code Project\Loylen\src\page\cart.php", "PHP", 99, 0, 0, 4, 103
+"d:\VS Code Project\Loylen\src\page\catalog.php", "PHP", 276, 0, 0, 5, 281
+"d:\VS Code Project\Loylen\src\page\favorite.php", "PHP", 108, 0, 0, 4, 112
+"d:\VS Code Project\Loylen\src\style\cart.css", "CSS", 0, 82, 0, 14, 96
+"d:\VS Code Project\Loylen\src\style\catalog.css", "CSS", 0, 141, 0, 23, 164
+"d:\VS Code Project\Loylen\src\style\favorite.css", "CSS", 0, 133, 0, 24, 157
+"d:\VS Code Project\Loylen\src\style\header.css", "CSS", 0, 3, 0, 0, 3
+"d:\VS Code Project\Loylen\src\style\main.css", "CSS", 0, -1, 0, 1, 0
+"Total", "-", 481, 358, 0, 75, 914

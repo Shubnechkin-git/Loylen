@@ -1,0 +1,80 @@
+.content {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 60px;
+}
+
+body span {
+    color: #474A51;
+    font-family: Futura PT;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+
+}
+
+form {
+    max-width: 406px;
+    row-gap: 30px;
+}
+
+form input {
+    border: none;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+
+form input:focus-visible {
+    border: none;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+
+.title {
+    font-family: Futura PT;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 31.2px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    padding-bottom: 50px;
+}
+
+.btn__return {
+    width: Hug (232px)px;
+    height: Hug (51px)px;
+    top: 416px;
+    left: 60px;
+    padding: 15px 25px 15px 25px;
+    gap: 10px;
+    opacity: 0px;
+    color: white;
+    background-color: #9F9D9D;
+    border: none;
+}
+
+.list {
+    row-gap: 10px;
+    margin-bottom: 50px;
+}
+
+.save__btn {
+    font-family: Futura PT;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    letter-spacing: 0.02em;
+    color: 1px solid #474A51;
+    background-color: rgba(0, 0, 0, 0);
+    width: Hug (158px)px;
+    height: Hug (51px)px;
+    top: 736px;
+    left: 497px;
+    padding: 15px 35px 15px 35px;
+    gap: 10px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+
+}

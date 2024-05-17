@@ -1,0 +1,164 @@
+.content {
+    margin: 30px 60px 80px 60px;
+}
+
+.content span {
+    font-family: Futura PT;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    color: #474A51;
+}
+
+.title {
+    margin-bottom: 80px;
+    margin-top: 80px;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 31.2px;
+    letter-spacing: 0.02em;
+}
+
+.title span {
+    font-family: Futura PT;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 31.2px;
+    letter-spacing: 0.02em;
+}
+
+img1:hover+.sizes {
+    opacity: 1;
+}
+
+.img1 {
+    height: 297px;
+    background-image: url("../assets/main/card/1.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-position-y: 0;
+    margin-bottom: 20px;
+}
+
+.point {
+    padding: 10px 15px;
+    background-color: #285DA1;
+    color: white;
+}
+
+.sizes {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    column-gap: 14px;
+    background: #dde8f671;
+    width: 100%;
+    height: 70px;
+    opacity: 0;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+.img1:hover .sizes {
+    opacity: 1;
+}
+
+.img1:hover .favorite {
+    opacity: 1;
+}
+
+.img2:hover .sizes {
+    opacity: 1;
+}
+
+.img2:hover .favorite {
+    opacity: 1;
+}
+
+.img3:hover .sizes {
+    opacity: 1;
+}
+
+.img3:hover .favorite {
+    opacity: 1;
+}
+
+.sizes .cart__btn {
+    margin-top: 5px;
+}
+
+.sizes button {
+    background-color: transparent;
+    border: none;
+    font-family: Futura PT;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: center;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+.sizes button:hover {
+    background-color: #474A51;
+    color: white;
+}
+
+.favorite {
+    margin-top: 10px;
+    margin-right: 20px;
+    cursor: pointer;
+    opacity: 0;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+
+.img1 .point span {
+    color: white;
+    font-family: Futura PT;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.2px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.img2 {
+    height: 297px;
+    background-image: url("../assets/main/card/2.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-position-y: 0;
+    margin-bottom: 20px;
+}
+
+.img3 {
+    height: 297px;
+    background-image: url("../assets/main/card/3.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-position-y: 0;
+    margin-bottom: 20px;
+}
+
+.menu {
+    width: 298px;
+    padding-right: 30px;
+}
+
+.price input {
+    width: 70px;
+    height: 30px;
+    border: 1px solid #EEEEEE;
+}
